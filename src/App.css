@@ -1,0 +1,7 @@
+.opacityIssue {
+    text-decoration: none;
+}
+.opacityIssue:hover {
+    text-underline-offset: 5px;
+    text-decoration: underline;
+}
