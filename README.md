@@ -86,6 +86,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Pending
 1. Contact page
 2. Pending to join env file with app.js
-
+3. API will not work at online because the API is only for localhost
 
 ### I build this application using the classbased component but after some time i will changed it into function based component
