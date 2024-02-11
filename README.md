@@ -69,6 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+# Version
+1. npm = 10.3.0
+2. node = 20.10.0
+
 # CSS
 - Used CSS framework bootstrap 5.3.2 for styling the page
 ```
