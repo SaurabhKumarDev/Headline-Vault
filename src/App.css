@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .opacityIssue {
     text-decoration: none;
 }
 .opacityIssue:hover {
     text-underline-offset: 5px;
     text-decoration: underline;
+=======
+.opacityIssue {
+    text-decoration: none;
+}
+.opacityIssue:hover {
+    text-underline-offset: 5px;
+    text-decoration: underline;
+>>>>>>> 991ae607c122531e44e24435c10f5246dcdfc4c7
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "status": "ok",
     "totalResults": 36,
@@ -263,4 +264,271 @@
                 "content": "Lana Del Rey, Tyler, the Creator and Doja Cat have been announced as headliners for the 2024 Coachella Valley Music and Arts Festival. \r\nThe 23rd installment of the Goldenvoice-produced festival, sch… [+3496 chars]"
             }
         ]
+=======
+{
+    "status": "ok",
+    "totalResults": 36,
+        "articles": [
+            {
+                "source": {
+                    "id": "the-wall-street-journal",
+                    "name": "The Wall Street Journal"
+                },
+                "author": "The Wall Street Journal",
+                "title": "China's Growth Slows to Three-Decade Low Excluding Pandemic - The Wall Street Journal",
+                "description": null,
+                "url": "https://www.wsj.com/world/china/chinas-growth-slows-to-three-decade-low-excluding-pandemic-93d61487",
+                "urlToImage": null,
+                "publishedAt": "2024-01-17T06:48:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "YouTube"
+                },
+                "author": null,
+                "title": "Kevin Durant TAKES OVER & Leads UNREAL 22-PT Comeback W! Uncut🔥 | January 15, 2024 - NBA",
+                "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://app.li...",
+                "url": "https://www.youtube.com/watch?v=ah-c6QVpo1A",
+                "urlToImage": "https://i.ytimg.com/vi/ah-c6QVpo1A/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCwgJih_MA8=&rs=AOn4CLBo3Cp05LoUDSLrckpJDnA1NweRTw",
+                "publishedAt": "2024-01-17T04:48:33Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "cbs-news",
+                    "name": "CBS News"
+                },
+                "author": "Jennifer McLogan, Dick Brennan, Carolyn Gusoff",
+                "title": "Gilgo Beach murders suspect Rex Heuermann charged with 4th killing - CBS New York",
+                "description": "Heuermann was charged last summer with killing three women whose bodies were found along Gilgo Beach in 2010.",
+                "url": "https://www.cbsnews.com/newyork/news/gilgo-beach-murders-suspect-rex-heuermann-due-in-court-to-face-4th-murder-charge-sources-say/",
+                "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/16/2f234fbf-6182-40db-982d-632202b34044/thumbnail/1200x630/8eb3e8b0d857ba42b35e57577840a4c4/6t5a2536.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
+                "publishedAt": "2024-01-17T04:25:00Z",
+                "content": "RIVERHEAD, N.Y. -- New charges were filed Tuesday against accused Gilgo Beach serial killer Rex Heuermann. \r\nIt comes six months after his arrest. \r\nHe was indicted Tuesday in the death of his fourth… [+7237 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Deadline"
+                },
+                "author": "Anthony D'Alessandro",
+                "title": "‘Fargo’ Trump America Set Season 5 Finale: [Spoiler] Gets Their Due, But With Plenty Of Honey In The End - Deadline",
+                "description": "Warning: The following post contains spoilers about tonight’s fifth season finale of FX’s Fargo, “Bisquik” Who knew a TV series based on an iconic Oscar-winning Coen Brother…",
+                "url": "http://deadline.com/2024/01/fargo-season-5-finale-review-1235794262/",
+                "urlToImage": "https://deadline.com/wp-content/uploads/2024/01/FARGO_510_0163r-e1705453228349.jpg?w=1024",
+                "publishedAt": "2024-01-17T04:08:00Z",
+                "content": "Warning: The following post contains spoilers about tonight’s fifth season finale of FX’sFargo, “Bisquik”\r\nWho knew a TV series based on an iconic Oscar-winning Coen Brothers noir movie had so much j… [+6127 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": null,
+                "title": "Fact checking Ron DeSantis’ CNN town hall in New Hampshire - CNN",
+                "description": "Florida Gov. Ron DeSantis participated in a CNN town hall Tuesday in New Hampshire ahead of the state’s up coming primary.",
+                "url": "https://www.cnn.com/2024/01/16/politics/fact-check-ron-desantis-town-hall-new-hampshire/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/wnl-6139.JPG?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2024-01-17T03:49:00Z",
+                "content": "Florida Gov. Ron DeSantis participated in a CNN town hall Tuesday in New Hampshire ahead of the states upcoming primary.\r\nThe GOP presidential contender who came in second behind former President Don… [+8199 chars]"
+            },
+            {
+                "source": {
+                    "id": "reuters",
+                    "name": "Reuters"
+                },
+                "author": "Reuters",
+                "title": "Republicans look to New Hampshire after Trump's landslide Iowa win - Reuters",
+                "description": null,
+                "url": "https://www.reuters.com/world/us/republicans-shift-new-hampshire-after-trumps-record-iowa-win-2024-01-16/",
+                "urlToImage": null,
+                "publishedAt": "2024-01-17T02:42:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "associated-press",
+                    "name": "Associated Press"
+                },
+                "author": "DAN GELSTON",
+                "title": "Eagles' Jason Kelce tells teammates he's retiring, sources say - The Associated Press",
+                "description": "Philadelphia Eagles center Jason Kelce has told teammates he intends to retire after 13 NFL seasons, according to three people informed of the decision. They spoke to The Associated Press on condition of anonymity Tuesday out of respect for Kelce’s decision, …",
+                "url": "https://apnews.com/article/eagles-jason-kelce-retires-2a5cff3398a6413a52d0bb3fdc2eef22",
+                "urlToImage": "https://dims.apnews.com/dims4/default/fba9ba5/2147483647/strip/true/crop/7913x4451+0+412/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2F23%2Fa4c566b2bdb97692418b5b998452%2Fb214a2ef45d74ad188148d8739252e29",
+                "publishedAt": "2024-01-17T02:41:00Z",
+                "content": "PHILADELPHIA (AP) Jason Kelce stood on the sideline in tears as the final seconds ticked off in his likely final NFL game. Kelce embraced his long-time offensive line coach. He removed his helmet onc… [+5801 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "NPR"
+                },
+                "author": null,
+                "title": "France and Qatar announce a deal to deliver medicine to Israeli hostages in Gaza - NPR",
+                "description": "France and Qatar said they had brokered a deal between Israel and Hamas to deliver medicine to hostages in Gaza, as well as additional aid to Palestinians in the besieged territory.",
+                "url": "https://www.npr.org/2024/01/16/1225123830/france-and-qatar-announce-a-deal-to-deliver-medicine-to-israeli-hostages-in-gaza",
+                "urlToImage": "https://media.npr.org/assets/img/2024/01/16/ap24016574131381_wide-6911d19bc929d390c11f910ccccd7234cce06737-s1400-c100.jpg",
+                "publishedAt": "2024-01-17T02:37:46Z",
+                "content": "Palestinians walk through destruction by an Israeli bombardment in the Nusseirat refugee camp in Gaza on Tuesday, Jan. 16, 2024.\r\nAdel Hana/AP\r\nRAFAH, Gaza Strip Palestinian militants battled Israeli… [+6762 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "NDTV News"
+                },
+                "author": null,
+                "title": "Why Vivek Ramaswamy Dropped Out Of US Presidential Race And Endorsed Trump - NDTV",
+                "description": "Indian-American entrepreneur Vivek Ramaswamy has dropped out of the 2024 presidential race after a fourth-place finish in the Republican Iowa caucuses, widely considered an indicator of the road ahead.",
+                "url": "https://www.ndtv.com/world-news/explained-why-vivek-ramaswamy-quit-2024-us-presidential-race-4877438",
+                "urlToImage": "https://c.ndtvimg.com/2023-12/7t9l89g_vivek-ramaswamy-afp_625x300_20_December_23.jpeg",
+                "publishedAt": "2024-01-17T02:34:34Z",
+                "content": "The 38-year-old, who has never held elective office, was self-funding his campaign.\r\nIndian-American entrepreneur Vivek Ramaswamy has dropped out of the 2024 presidential race after a fourth-place fi… [+2158 chars]"
+            },
+            {
+                "source": {
+                    "id": "bloomberg",
+                    "name": "Bloomberg"
+                },
+                "author": "Vlad Savov",
+                "title": "Apple Passed Samsung as World's Top Phone Maker in 2023 - Bloomberg",
+                "description": "Apple Inc.’s iPhone dethroned Samsung Electronics Co. devices to become the best-selling smartphone series over the course of 2023, the first time South Korea’s largest company has lost the top spot since 2010.",
+                "url": "https://www.bloomberg.com/news/articles/2024-01-17/apple-passes-samsung-as-world-s-top-phone-maker-for-first-time",
+                "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ2RNo0CSu_s/v0/1200x800.jpg",
+                "publishedAt": "2024-01-17T02:07:58Z",
+                "content": "Apple Inc.s iPhone dethroned Samsung Electronics Co. devices to become the best-selling smartphone series over the course of 2023, the first time South Koreas largest company has lost the top spot si… [+468 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Samantha Delouya",
+                "title": "Bob Iger made $31.6 million as Disney’s CEO last year - CNN",
+                "description": "Disney CEO Bob Iger raked in $31.6 million in compensation last year – a multi-million-dollar boost from his income the year before.",
+                "url": "https://www.cnn.com/2024/01/16/business/bob-iger-disney-pay/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240116194649-bob-iger-12192023.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2024-01-17T02:03:00Z",
+                "content": "Disney CEO Bob Iger raked in $31.6 million in compensationlast year a multi-million-dollar boost from his income the year before.\r\nIgers 2023 pay package included a base salary of $865,385, stock awa… [+1405 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "SB Nation"
+                },
+                "author": "Harrison Faigen",
+                "title": "NBA Trade Rumors: Pacers, Raptors on precipice of Pascal Siakam deal - SB Nation",
+                "description": "It sounds like the Pacers are about to go all-in on a star duo of Pascal Siakam and Tyrese Haliburton.",
+                "url": "https://www.sbnation.com/2024/1/16/24040995/nba-trade-rumors-pacers-raptors-pascal-siakam-tyrese-haliburton",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/-jqX_DRMp_S_CC6JGMNjC69hCxk=/0x0:7309x3827/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25230882/1247317602.jpg",
+                "publishedAt": "2024-01-17T01:52:13Z",
+                "content": "The Feb. 8 NBA trade deadline may still several weeks away, but that hasnt stopped the Toronto Raptors from getting active in overhauling their roster. Just over two weeks after sending O.G. Anunoby … [+3209 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "New York Post"
+                },
+                "author": "Katherine Donlevy",
+                "title": "Chinese lab crafts mutant COVID-19 strain with 100% kill streak in 'humanized' mice: 'Surprisingly' rapid death - New York Post ",
+                "description": "Most eerie of all, the mice’s eyes turned completely white the day before they died.",
+                "url": "https://nypost.com/2024/01/16/news/covid-19-strain-kills-100-of-infected-mice-in-chinese-lab-study/",
+                "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/chinese-scientists-create-covid-strain-75020392.jpg?quality=75&strip=all&w=1024",
+                "publishedAt": "2024-01-17T01:51:00Z",
+                "content": "In a Wuhan-esque study, Chinese scientists are experimenting with a mutant COVID-19 strain that has a 100% kill streak in “humanized” mice. \r\nThe deadly virus — known as GX_P2V — attacked the brains … [+3001 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Sandee LaMotte",
+                "title": "Weight gain in children and adults linked to 100% fruit juice, study says - CNN",
+                "description": "One glass of 100% juice a day was linked to weight gain in children and adults, a new study found.",
+                "url": "https://www.cnn.com/2024/01/16/health/juice-weight-gain-study-wellness/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1032844654.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2024-01-17T01:30:00Z",
+                "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nDrinking a glass or more of 100… [+5840 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Nouran Salahieh, Joe Sutton, Robert Shackelford",
+                "title": "Northeast snow droughts end as Arctic blast brings record cold and frostbite-inducing wind chills - CNN",
+                "description": "A brutal Arctic blast is bringing record-low temperatures and life-threatening wind chills across a large swath of the United States.",
+                "url": "https://www.cnn.com/2024/01/16/weather/winter-storm-snow-northeast-tuesday/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240116131310-01-winter-weather-0116-new-york.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2024-01-17T01:26:00Z",
+                "content": "A brutal Arctic blast is bringing record-low temperatures and life-threatening wind chills across a large swath of the United States as snow and ice spread from the South to New England and a new sto… [+6415 chars]"
+            },
+            {
+                "source": {
+                    "id": "business-insider",
+                    "name": "Business Insider"
+                },
+                "author": "Bryan Metzger",
+                "title": "These 11 senators back Sanders resolution on Israel human rights violations - Business Insider",
+                "description": "While the effort failed, it's an indicator of where senators stand on Israel's military campaign in Gaza, where over 24,000 people have been killed.",
+                "url": "https://www.businessinsider.com/which-senators-voted-bernie-sanders-resolution-israel-human-rights-violations-2024-1",
+                "urlToImage": "https://i.insider.com/65a6957b43bb77284b9d481b?width=1200&format=jpeg",
+                "publishedAt": "2024-01-17T01:16:00Z",
+                "content": "Just 11 senators on Tuesday evening supported advancing a resolution from Sen. Bernie Sanders that would have significantly escalated congressional oversight of US military aid to Israel.\r\nSeventy-tw… [+4926 chars]"
+            },
+            {
+                "source": {
+                    "id": "associated-press",
+                    "name": "Associated Press"
+                },
+                "author": "SALAR SALIM, OMAR ALBAM",
+                "title": "Baghdad recalls its ambassador from Tehran in protest over Iranian strikes on Iraq - The Associated Press",
+                "description": "Iraq's Foreign Ministry has recalled its ambassador to Iran for consultations and summoned Iran’s chargé d’affaires in Baghdad in protest over Iranian strikes on northern Iraq that killed several civilians. The ministry says the Iranian attack was “a blatant …",
+                "url": "https://apnews.com/article/iraq-syria-iran-strike-7939f337454578cc20da8ac15fc5b457",
+                "urlToImage": "https://dims.apnews.com/dims4/default/6493bb1/2147483647/strip/true/crop/1724x970+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2F0b%2F4cb32a60ddc6141782146b3b695f%2F4a5a2bae2d984ddd93b49528ae8bdcfb",
+                "publishedAt": "2024-01-17T00:57:00Z",
+                "content": "IRBIL, Iraq (AP) Iraq recalled its ambassador from Tehran for consultations and summoned Irans chargé daffaires in Baghdad on Tuesday in protest over Iranian strikes on northern Iraq that killed seve… [+4762 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "[Removed]"
+                },
+                "author": null,
+                "title": "[Removed]",
+                "description": "[Removed]",
+                "url": "https://removed.com",
+                "urlToImage": null,
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "content": "[Removed]"
+            },
+            {
+                "source": {
+                    "id": "axios",
+                    "name": "Axios"
+                },
+                "author": "Axios",
+                "title": "Trump arrives at court for E. Jean Carroll defamation case after Iowa victory - Axios",
+                "description": null,
+                "url": "https://www.axios.com/2024/01/16/trump-e-jean-carroll-case-defamation-iowa",
+                "urlToImage": null,
+                "publishedAt": "2024-01-17T00:32:56Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Los Angeles Times"
+                },
+                "author": "August Brown",
+                "title": "Lana Del Rey, Tyler, the Creator and Doja Cat to headline Coachella 2024 - Los Angeles Times",
+                "description": "The Coachella lineup is here, and the main acts — Lana Del Rey, Tyler, the Creator and Doja Cat, plus No Doubt — comprise the most L.A.-centric in festival history.",
+                "url": "https://www.latimes.com/entertainment-arts/music/story/2024-01-16/coachella-2024-lineup-lana-del-rey-tyler-the-creator-doja-cat",
+                "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/35f7647/2147483647/strip/true/crop/4857x2550+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F37%2F5e%2Fd41078e648fa8f549598409064b2%2Fgettyimages-1531852675.jpg",
+                "publishedAt": "2024-01-17T00:21:00Z",
+                "content": "Lana Del Rey, Tyler, the Creator and Doja Cat have been announced as headliners for the 2024 Coachella Valley Music and Arts Festival. \r\nThe 23rd installment of the Goldenvoice-produced festival, sch… [+3496 chars]"
+            }
+        ]
+>>>>>>> 991ae607c122531e44e24435c10f5246dcdfc4c7
 }

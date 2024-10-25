@@ -7,7 +7,10 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.2",
+<<<<<<< HEAD
     "dotenv": "^16.4.5",
+=======
+>>>>>>> 991ae607c122531e44e24435c10f5246dcdfc4c7
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-infinite-scroll-component": "^6.1.0",
